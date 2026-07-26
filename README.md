@@ -5,11 +5,11 @@ Backend Developer • AI Student • Python & JavaScript Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student+at+UMT;Backend+Developer;Python+%7C+JavaScript+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student+at+UMT;Backend+Developer;Python+Developer;JavaScript+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habibtariq513&label=Profile+Views&color=8A2BE2&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=habibtariq513&label=Profile+Views&color=8A2BE2&style=flat-square"/>
 </p>
 
 ---
@@ -20,9 +20,9 @@ Backend Developer • AI Student • Python & JavaScript Enthusiast
 
 - 🌱 Currently learning **Python, JavaScript & Machine Learning**
 - 💻 Passionate about **Backend Development**
-- 🚀 Interested in **Artificial Intelligence & Web Development**
+- 🚀 Exploring **Artificial Intelligence & Web Development**
 - 🤝 Looking to collaborate on **Backend & Open Source Projects**
-- 💬 Ask me about **Python, JavaScript & AI**
+- 💬 Ask me about **Python, JavaScript & Machine Learning**
 - 📫 **Email:** **habibtariq175@gmail.com**
 
 ---
@@ -107,9 +107,9 @@ Backend Developer • AI Student • Python & JavaScript Enthusiast
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=habibtariq513&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=habibtariq513&show_icons=true&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=habibtariq513&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibtariq513&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -129,7 +129,7 @@ Backend Developer • AI Student • Python & JavaScript Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=habibtariq513&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=habibtariq513&theme=tokyo-night"/>
 
 </p>
 
@@ -139,13 +139,13 @@ Backend Developer • AI Student • Python & JavaScript Enthusiast
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="650"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZrZWMxcXNrdGd5aGtvYXE5ZjFkbzlodnY1ZTBqZXRtZjZ3OW42NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" width="650"/>
 
 </p>
 
 ---
 
-# ✨ Random Developer Quote
+# ✨ Random Dev Quote
 
 <p align="center">
 

@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Habib%20Tariq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student+at+UMT;Frontend+Developer;Machine+Learning+%26+NLP+Explorer;Building+Practical+Software+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student+at+UMT;Reactjs+Developer;Machine+Learning+%26+NLP+Explorer;Frontend+Developer;Building+Practical+Software+Solutions" alt="Typing SVG" />
   </a>
 
   <p align="center">

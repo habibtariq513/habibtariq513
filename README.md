@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=habibtariq513&label=Profile+Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhabibtariq513&label=Profile%20Views&labelColor=%231a1b27&countColor=%238A2BE2&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/habibtariq513?label=Followers&color=8A2BE2&style=for-the-badge&logo=github" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/habibtariq513?label=Total+Stars&color=8A2BE2&style=for-the-badge&logo=github" alt="GitHub Stars" />
   </p>
@@ -59,8 +59,8 @@ I’m a 3rd-year **Artificial Intelligence** student at the **University of Mana
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=habibtariq513&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2" alt="Habib's GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibtariq513&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=8A2BE2" alt="Top Languages" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibtariq513&theme=tokyonight" alt="Habib's GitHub Stats" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibtariq513&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -70,7 +70,7 @@ I’m a 3rd-year **Artificial Intelligence** student at the **University of Mana
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibtariq513&bg_color=1a1b27&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true" width="100%" alt="Habib's Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibtariq513&theme=tokyonight" width="100%" alt="Habib's Contribution Graph" />
 </div>
 
 ---

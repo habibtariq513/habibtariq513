@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Habib%20Tariq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student+at+UMT;Full-Stack+%26+Backend+Developer;Machine+Learning+%26+NLP+Explorer;Building+Practical+Software+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Student+at+UMT;Frontend+Developer;Machine+Learning+%26+NLP+Explorer;Building+Practical+Software+Solutions" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -45,7 +45,6 @@ I’m a 3rd-year **Artificial Intelligence** student at the **University of Mana
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### AI, Data Science & Tools
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
